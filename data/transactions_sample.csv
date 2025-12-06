@@ -1,0 +1,6 @@
+product_code,customer_code,market_code,order_date,norm_sales_amount,sales_qty,Cost_Price
+Prod001,Cus001,Mark001,2018-01-10,100000,10,70000
+Prod002,Cus002,Mark002,2018-02-15,25000,5,17500
+Prod003,Cus003,Mark001,2019-05-20,40000,4,28000
+Prod004,Cus004,Mark003,2019-07-10,15000,3,10500
+Prod005,Cus005,Mark002,2020-03-18,60000,6,42000
