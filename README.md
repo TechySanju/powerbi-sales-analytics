@@ -1,6 +1,6 @@
 # Power BI Sales Analytics Dashboard
 
-Author: Sanju Singh
+Author: Sanju Kumar
 
 ## Project Overview
 This project is an interactive Power BI dashboard built to analyze sales performance.
